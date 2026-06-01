@@ -5,7 +5,7 @@ on:
     branches:
       - master
     paths:
-      - src\main\java\com\mycompany\app
+      - src/main/java/com/mycompany/app
 
 jobs:
   build:
